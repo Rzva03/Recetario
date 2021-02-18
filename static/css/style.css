@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+header {
+  text-align: center;
+  /*background-image: url("/recetario/static/img/banner.jpeg");*/
+  background-color: rgb(161, 151, 151);
+  height: 170px;
+  font-style: oblique;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#titleImg {
+  width: 300px;
+}
+th,
+td {
+  padding: 10px;
+}
+.styleTable table {
+  border-color: solid blue 1px;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+form {
+  text-align: center;
+  background-color: burlywood;
+  padding: 20px;
+  margin-top: 0px;
+}
